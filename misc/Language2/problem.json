@@ -1,0 +1,8 @@
+{"name": "Language2",
+ "score": 10,
+ "category": "miscellaneous",
+ "grader": "misc/Language2/grader.py",
+ "description": "Here is another one. :D <a target=_blank href='/problem-static/misc/Language2/26d0a398438ed7ac41305d734b33a075'>26d0a398438ed7ac41305d734b33a075</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Maybe you should look at language 1 first."}

@@ -1,0 +1,8 @@
+{"name": "b0verfl0w",
+ "score": 15,
+ "category": "Pwn",
+ "grader": "pwn/b0verfl0w/grader.py",
+ "description": "<a target=_blank href='/problem-static/pwn/b0verfl0w/c343c76a9bc18021a2ebda77730d85e1'>b0verfl0w</a> is running at 188.166.226.181:4242.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Not so simple buffer overflow."}

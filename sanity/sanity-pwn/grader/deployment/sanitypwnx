@@ -1,0 +1,12 @@
+service sanitypwn
+{
+    disable = no
+    socket_type = stream
+    protocol    = tcp
+    wait        = no
+    user        = sanitypwn
+    bind        = 0.0.0.0
+    server      = /home/sanitypwn/pwn.sh
+    type        = UNLISTED
+    port        = 1337
+}

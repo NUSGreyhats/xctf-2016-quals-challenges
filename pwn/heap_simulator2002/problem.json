@@ -1,0 +1,8 @@
+{"name": "heap_simulator2002",
+ "score": 20,
+ "category": "Pwn",
+ "grader": "pwn/heap_simulator2002/grader.py",
+ "description": "<a target=_blank href='/problem-static/pwn/heap_simulator2002/9a1542c39fec3dac557f63e040ed16c6'>Heap Simulator 2002</a> is running at 128.199.154.12:4243. NOTE: There is an issue with this challenge. If you have gotten your exploit to work locally, please contact me over IRC as soon as possible with your exploit and I will manually grade your submission.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Try playing with the heap!"}

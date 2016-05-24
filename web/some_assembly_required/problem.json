@@ -1,0 +1,8 @@
+{"name": "some_assembly_required",
+ "score": 20,
+ "category": "Web",
+ "grader": "web/some_assembly_required/grader.py",
+ "description": "I found some high tech <a target=_blank href='/problem-static/web/some_assembly_required/d4e0ea13bbf47b27cce4b70943294af9.zip'>stuff</a>! Can you figure it out?",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Grab a coat. It might be chilly out there."}

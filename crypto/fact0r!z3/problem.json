@@ -1,0 +1,8 @@
+{"name": "fact0r!z3",
+ "score": 7,
+ "category": "crypto",
+ "grader": "crypto/fact0r!z3/grader.py",
+ "description": "Can you decrypt this?<br/> <a target=_blank href='/problem-static/crypto/fact0r!z3/4b5978caa2cef859f97d0443ada4db40'>Encrypted.zip</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "No need hints for this."}

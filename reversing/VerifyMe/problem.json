@@ -1,0 +1,8 @@
+{"name": "VerifyMe",
+ "score": 20,
+ "category": "Reversing",
+ "grader": "reversing/VerifyMe/grader.py",
+ "description": "Can your verify yourself? :D<br/> The flag is not in XCTF{} format, please submit it in XCTF{flag} format.\n<a target=_blank href='/problem-static/reversing/VerifyMe/e30cb24c6a810d074a4f227a8bb83742'>VerifyMe</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

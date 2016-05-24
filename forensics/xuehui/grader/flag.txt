@@ -1,0 +1,1 @@
+XCTF{batman_is_awesome}

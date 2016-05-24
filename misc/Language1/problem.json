@@ -1,0 +1,8 @@
+{"name": "Language 1",
+ "score": 3,
+ "category": "Misc",
+ "grader": "misc/Language1/grader.py",
+ "description": "We are totally going <a target=_blank href='/problem-static/misc/Language1/4a0b0d115d1815a812757392b12fa257.md'> retro</a> for the challenges in Misc. Stay tuned!",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Languages are cool."}

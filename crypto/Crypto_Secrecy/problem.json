@@ -1,0 +1,8 @@
+{"name": "CryptoSecrecy",
+ "score": 20,
+ "category": "crypto",
+ "grader": "crypto/Crypto_Secrecy/grader.py",
+ "description": "<pre>Story:\n\n--------------------------------------------------------------------------------------------------------------------------------\n\nAn unknown enemy agent has been sent to capture one of our key leaders\nWe have intercepted communications from his handler Shannon. Intercepted Comms as below:\n\n    Orders encrypted using Xor Perfect Secrecy system...\n    \n    13450f0c0a42071344541f0a4c1241131300544c00075404564c1e552f11061d1d490d06501c1a1d0100090b1600091152410b1e410d0b1e1552\n\n    Decrypt it with the key I sent you before.\n    Don't worry, this time, the key is as long as the message.\n    Godspeed.\n    \n    PS: 154807490a410508070000001e0253411517454c1a050109044d1b160c001d1a17000815410f0a43444d04030b52011f17000e0640\n\nCan you break the encryption? Find out who they are targetting!!\n\n--------------------------------------------------------------------------------------------------------------------------------\n\nOnce you get the name of the target, submit it in the form of XCTF{name}\n\nE.g. If the name is John, submit the flag as XCTF{John}</pre><br />Note: If your flag failed earlier on, please try again!",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

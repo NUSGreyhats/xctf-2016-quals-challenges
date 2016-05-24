@@ -1,0 +1,12 @@
+service boverflowservice
+{
+    disable = no
+    socket_type = stream
+    protocol    = tcp
+    wait        = no
+    user        = boverflow
+    bind        = 0.0.0.0
+    server      = /home/boverflow/boverflow
+    type        = UNLISTED
+    port        = 31337
+}

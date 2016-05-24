@@ -1,0 +1,8 @@
+{"name": "fact0r!z3_aga!n",
+ "score": 15,
+ "category": "crypto",
+ "grader": "crypto/fact0r!z3_aga!n/grader.py",
+ "description": "Can you decrypt it this time? A litle bird told me that if the d value is small, it would be possible.<br/> <a target=_blank href='/problem-static/crypto/fact0r!z3_aga!n/579cc1b2804ac9981610320f5e77230c'>Encrypted.zip</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "No need hints for this."}

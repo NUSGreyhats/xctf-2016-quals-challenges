@@ -1,0 +1,8 @@
+{"name": "9x3",
+ "score": 2,
+ "category": "crypto",
+ "grader": "crypto/9x3/grader.py",
+ "description": "Solve this: YAHORAUCLWRLAYENPNTTGMOEOCS. </br>Flag is not in XCTF{} format, please submit in XCTF{plaintext}.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "No need hints for this."}

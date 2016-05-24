@@ -1,0 +1,8 @@
+{"name": "BabyStepSwift",
+ "score": 15,
+ "category": "Reversing",
+ "grader": "reversing/BabyStepSwift/grader.py",
+ "description": "This is simple crackme. Submit your flag now!<br/> The flag is not in XCTF{} format, please submit it in XCTF{flag} format.\n<a target=_blank href='/problem-static/reversing/BabyStepSwift/4adecca368423ab357e54f637f86cc4a'>CrackMe</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

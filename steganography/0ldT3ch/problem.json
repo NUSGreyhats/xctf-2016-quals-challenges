@@ -1,0 +1,8 @@
+{"name": "0ldT3ch",
+ "score": 10,
+ "category": "steganography",
+ "grader": "steganography/0ldT3ch/grader.py",
+ "description": "The flag will be in XCTF{flag} format. Replace '-' with '_'.</br><a target=_blank href='/problem-static/steganography/0ldT3ch/7ef7b4da3f4f97b4113dc9e902b31ce1'>7ef7b4da3f4f97b4113dc9e902b31ce1</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Maybe you should get a mirror."}

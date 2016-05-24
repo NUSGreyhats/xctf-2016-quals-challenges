@@ -1,0 +1,8 @@
+{"name": "Bug Report",
+ "score": 0.31337,
+ "category": "meta",
+ "grader": "meta/bug-report/grader.py",
+ "description": "This challenge serves to recognise the teams that have reported bugs. Super madcr3dz to them!",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

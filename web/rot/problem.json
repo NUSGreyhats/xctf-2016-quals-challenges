@@ -1,0 +1,8 @@
+{"name": "rot",
+ "score": 3,
+ "category": "Web",
+ "grader": "web/rot/grader.py",
+ "description": "Secrets! http://188.166.226.181:8082/",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Secrets secrets secrets"}

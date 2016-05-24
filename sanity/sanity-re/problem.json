@@ -1,0 +1,8 @@
+{"name": "sanity-re",
+ "score": 1,
+ "category": "Sanity",
+ "grader": "sanity/sanity-re/grader.py",
+ "description": "Can you find the secret message within <a target=_blank href='/problem-static/sanity/sanity-re/339583fd55cbdeb4e596b7a4633d75fc'> this mysterious file</a>? The 'file' utility in Linux would really help you out!",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Strings are cool in C."}

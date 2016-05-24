@@ -1,0 +1,8 @@
+{"name": "sanity-forensics",
+ "score": 1,
+ "category": "Sanity",
+ "grader": "sanity/sanity-forensics/grader.py",
+ "description": "Someone tried to send us a message by leaving <a target=_blank href='/problem-static/sanity/sanity-forensics/2b9d66fef4f09e03154b2e161d52010d.png'>this image</a> on an imageboard. Lucky for us they didn't choose 4chan. Can you find the message?",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": " How would you hide a flag in an image without too much trouble?"}

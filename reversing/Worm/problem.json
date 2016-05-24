@@ -1,0 +1,8 @@
+{"name": "Worm",
+ "score": 40,
+ "category": "Reversing",
+ "grader": "reversing/Worm/grader.py",
+ "description": "A <a target=_blank href='/problem-static/reversing/Worm/add4f352cbcb62fffe01eccf78a912b8'>malware</a> was caught infecting \"NUS GOVT\" thumb drive. Encryption was used to encrypt outgoing data. <br>Please submit the answer in the following format: XCTF{SHA1 of (key1 + key2 + key3)}",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

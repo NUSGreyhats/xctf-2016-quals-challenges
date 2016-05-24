@@ -1,0 +1,8 @@
+{"name": "RetroTech",
+ "score": 15,
+ "category": "steganography",
+ "grader": "steganography/RetroTech/grader.py",
+ "description": "Agent Y had been communicating with another person for 2 weeks but there was no verbal conversation but just tones.</br>Can you help us to figure out what they are talking about?</br>The flag has to be in the following format: XCTF{answer}</br><a target=_blank href='/problem-static/steganography/RetroTech/fae4bed3125f63b7a3734445739109a7'>fae4bed3125f63b7a3734445739109a7</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

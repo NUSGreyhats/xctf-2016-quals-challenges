@@ -1,0 +1,8 @@
+{"name": "dumpdiving",
+ "score": 10,
+ "category": "forensics",
+ "grader": "forensics/dumpdiving/grader.py",
+ "description": "Can you retrieve the flag? <a target=_blank href='/problem-static/forensics/dumpdiving/800edbcdf00c51b599cb65c4143be162.jpg'>800edbcdf00c51b599cb65c4143be162.jpg</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

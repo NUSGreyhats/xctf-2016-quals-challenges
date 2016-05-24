@@ -1,0 +1,8 @@
+{"name": "Artist",
+ "score": 10,
+ "category": "forensics",
+ "grader": "forensics/Artist/grader.py",
+ "description": "Find the Flag! <a target=_blank href='/problem-static/forensics/Artist/dc2845e4acf01eecd5c315c3debc71c6'>dc2845e4acf01eecd5c315c3debc71c6</a>\n <br/>\n All flags should be in XCTF{flag} format",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

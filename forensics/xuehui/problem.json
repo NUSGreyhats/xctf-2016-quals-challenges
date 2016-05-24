@@ -1,0 +1,8 @@
+{"name": "xuehui",
+ "score": 5,
+ "category": "Forensics",
+ "grader": "forensics/xuehui/grader.py",
+ "description": "Did you know that Xue Hui is a superheroine? She has many super-friends! She keeps her favourite one a secret though. Find out <a target=_blank href='/problem-static/forensics/xuehui/a9b067888f2c7aacb4af7bce50468ee2.pcap'>who</a> it is!.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Seems like she tried to be sneaky."}

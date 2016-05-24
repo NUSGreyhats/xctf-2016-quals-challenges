@@ -1,0 +1,8 @@
+{"name": "neutron_star_collision",
+ "score": 5,
+ "category": "Web",
+ "grader": "web/neutron_star_collision/grader.py",
+ "description": "Rick created a Neutron Star Collider but he won't let us take a look! Please help us. It's at http://188.166.226.181:8080.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Summer doesn't like this one bit but she hates being left out."}

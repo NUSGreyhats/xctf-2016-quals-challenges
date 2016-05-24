@@ -1,0 +1,8 @@
+{"name": "Invisible",
+ "score": 10,
+ "category": "Steganography",
+ "grader": "steganography/Invisible/grader.py",
+ "description": "Can you find the flag? <a target=_blank href='/problem-static/steganography/Invisible/a2bf8b0b4f215c66156c95ee94c4eb8c'>Wonder Woman</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

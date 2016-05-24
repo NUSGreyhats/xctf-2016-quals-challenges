@@ -1,0 +1,8 @@
+{"name": "heap_simulator2000",
+ "score": 10,
+ "category": "Pwn",
+ "grader": "pwn/heap_simulator2000/grader.py",
+ "description": "<a target=_blank href='/problem-static/pwn/heap_simulator2000/c351e33af617f65678253f9207b436a4'>Heap Simulator 2000</a> is running at 128.199.75.22:4243.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Try playing with the heap!"}

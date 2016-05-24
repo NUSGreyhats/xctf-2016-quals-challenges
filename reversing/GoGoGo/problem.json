@@ -1,0 +1,8 @@
+{"name": "GoGoGo",
+ "score": 30,
+ "category": "Reversing",
+ "grader": "reversing/GoGoGo/grader.py",
+ "description": "This is another simple babystep <a target=_blank href='/problem-static/reversing/GoGoGo/2e08d9ac4cf62107c09b399b2774ccb6'>binary </a> we have for you.<br/> If the flag is not in XCTF{} format, please try to submit it in XCTF{flag} format.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Google"}

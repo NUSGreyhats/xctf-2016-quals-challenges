@@ -1,0 +1,8 @@
+{"name": "The Snek",
+ "score": 20,
+ "category": "Web",
+ "grader": "web/the_snek/grader.py",
+ "description": "Breedom ain't bree. OK. The world gonna be litterd with the sneks. Praise snek. http://188.166.226.181:8081.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Shoutout to /pol/."}

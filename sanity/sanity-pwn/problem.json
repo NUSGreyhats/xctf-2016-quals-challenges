@@ -1,0 +1,8 @@
+{"name": "sanity-pwn",
+ "score": 1,
+ "category": "Sanity",
+ "grader": "sanity/sanity-pwn/grader.py",
+ "description": "Sometimes C programmers have problems learning Python. Can you please look at this <a target=_blank href='/problem-static/sanity/sanity-pwn/caecdc4d72721b0446e12a011333f44e.py'>script</a> and see if there is a problem?<br /><br />There's a running copy at: nc 128.199.75.22 4242.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Integers are weird."}

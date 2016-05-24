@@ -1,0 +1,8 @@
+{"name": "sanity-crypto",
+ "score": 1,
+ "category": "Sanity",
+ "grader": "sanity/sanity-crypto/grader.py",
+ "description": "Decrypt this: 'GgEWBDkaDRAdc3cdMXIdIS5zISpxPw==' with a one letter solution to Life, the Universe, and Everything.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "What rhymes with score?"}

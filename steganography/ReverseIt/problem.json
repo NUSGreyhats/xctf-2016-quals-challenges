@@ -1,0 +1,8 @@
+{"name": "ReverseIt",
+ "score": 5,
+ "category": "Steganography",
+ "grader": "steganography/ReverseIt/grader.py",
+ "description": "<a target=_blank href='/problem-static/steganography/ReverseIt/431cdad11b3dd5243d3ff2aa8cf3c5e7.png'>Reverse It!</a>!",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Reverse it!"}

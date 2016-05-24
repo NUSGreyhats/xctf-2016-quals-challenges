@@ -1,0 +1,8 @@
+{"name": "neatlypacked",
+ "score": 20,
+ "category": "forensics",
+ "grader": "forensics/neatlypacked/grader.py",
+ "description": "Analyze this sample and retrieve the flag! <a target=_blank href='/problem-static/forensics/neatlypacked/186164f75c02b73ca6100b5cd4542f9f.exe'>186164f75c02b73ca6100b5cd4542f9f.exe</a>(Tested on Windows 7/10)",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

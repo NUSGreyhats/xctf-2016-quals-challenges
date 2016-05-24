@@ -1,0 +1,8 @@
+{"name": "nandynarwhals",
+ "score": 10,
+ "category": "Crypto",
+ "grader": "crypto/nandynarwhals/grader.py",
+ "description": "Decipher this secret <a target=_blank href='/problem-static/crypto/nandynarwhals/2d23fb65500eba68764693d0c189baf4.md'>message</a>. Note: This challenge does not follow the XCTF{} flag format.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "?"}

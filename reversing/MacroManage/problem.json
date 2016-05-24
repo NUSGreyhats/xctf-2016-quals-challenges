@@ -1,0 +1,8 @@
+{"name": "MacroManage",
+ "score": 10,
+ "category": "Reversing",
+ "grader": "reversing/MacroManage/grader.py",
+ "description": "Retrieve the flag <a target=_blank href='/problem-static/reversing/MacroManage/fc6d498aff2002fcb2935a28a1e8c4ad'>this secret message</a>?",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}
